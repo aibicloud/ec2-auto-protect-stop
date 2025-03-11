@@ -67,10 +67,6 @@
 建议创建具有以上权限的 IAM 用户或角色来部署此应用。
 
 
-## 准备
-
-```bash
-pip install -r requirements.txt
 
 ## 部署
 
