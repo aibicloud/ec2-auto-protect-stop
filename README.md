@@ -8,6 +8,10 @@
    4. 设置Lambda Function的权限、超时时间为15分钟。
 2. 创建 EventBridge Rule，并作为Lambda Function的触发器，每10分钟触发一次Lambda，执行检测1次。
 
+
+![Architecture](./images/architecture.jpg)
+
+
 ### 注意：
 任何人可以基于此代码完成任何部署并自行评估是否可以部署，自行承担部署、可用性、风险、部署后带来的影响等，与作者无关。
 
